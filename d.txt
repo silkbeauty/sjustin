@@ -1,0 +1,11 @@
+md editors_picks
+md fan_favorites
+md first_seen_this_week
+md most_viewed
+md new_and_noteworthy
+md this_weekend
+md trending_now
+md uploaded_today
+
+
+xcopy 0.sjustin\bb?.jpg fff/s/d
